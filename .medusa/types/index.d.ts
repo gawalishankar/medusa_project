@@ -1,1 +1,1 @@
-
+export * as RemoteQueryEntryPointsTypes from './query-entry-points'
