@@ -1,3 +1,13 @@
+Successfully installed and deployed @medusajs – a powerful open-source headless commerce engine – using:
+ ✅ Amazon ECS (Fargate)
+ ✅ Amazon RDS (PostgreSQL)
+ ✅ ECR for Docker images
+ ✅ CloudWatch for logging
+ ✅ Secure CI/CD via GitHub Actions
+I learned about infrastructure-as-code, ECS service/task definitions, debugging RDS access from containers, and managing secrets securely in production.
+
+
+
 <p align="center">
   <a href="https://www.medusajs.com">
   <picture>
